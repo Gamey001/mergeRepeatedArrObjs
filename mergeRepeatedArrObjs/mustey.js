@@ -1,13 +1,3 @@
-/*
-let counters = [1,2,3,4,5];
-let myMultiples = [];
-const n = 4;
-
-counters.map((multiple) => {myMultiples.push(n*multiple)});
-
-//console.log(myMultiples);
-console.log(myMultiples.map((multiple, index) => "element: "+myMultiples[index]));
-*/
 let myArr = [
     {id: 1, name: 'Abraham'},
     {id: 2, name: 'Bill'},
